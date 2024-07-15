@@ -2,6 +2,8 @@
 
 # Weather App
 
+<img width="700" alt="weather_app" src="https://github.com/user-attachments/assets/28b7e0b3-fb8c-4bc9-86d5-16c17af3d7ff">
+
 ## **Description**
 **This Python project creates a GUI application using Tkinter to display weather information for a given city**.
 <br>Users can input a city name, and the application retrieves and displays the weather data including **temperature**, **humidity**, **wind speed**, and **more**, using the ***OpenWeatherMap API***.
